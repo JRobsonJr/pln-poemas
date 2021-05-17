@@ -20,8 +20,8 @@ Na pasta `/dados`, encontram-se:
 
 Na pasta `/scripts`, encontram-se os arquivos com os códigos desenvolvidos e utilizados:
 
-- `leitura-docs.py` efetua a extração dos textos dos documentos;
-- `analise.ipynb` é um Python Notebook contendo o passo a passo das análises, com comentários.
+- `leitura-docx.ipynb` efetua a extração dos textos dos documentos;
+- `pln-poemas.ipynb` é um Python Notebook contendo o passo a passo das análises, com comentários.
 
 Na pasta `/materiais`, encontram-se os materiais adicionais produzidos:
 

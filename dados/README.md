@@ -2,7 +2,7 @@
 
 ## [`poemas_df.csv`](poemas_df.csv)
 
-Resultados da extração dos textos dos arquivos DOCX:
+Resultados da extração dos textos dos arquivos DOCX.
 
 - **Título:** título do poema;
 - **Texto:** conteúdo do poema;
@@ -13,3 +13,12 @@ Resultados da extração dos textos dos arquivos DOCX:
 ## [`stopwords.csv`](stopwords.csv)
 
 Arquivo com linha única, contendo termos considerados _stopwords_ para o contexto da modelagem de tópicos.
+
+## [`topicos.csv`](topicos.csv)
+
+Arquivo com tópicos extraídos e discutidos no trabalho.
+
+- **Tópico:** identificador do tópico;
+- **Qtd. de poemas:** quantidade de poemas associados ao tópico;
+- **Palavras mais frequentes:** top 10 de palavras mais frequentes nos poemas do tópico;
+- **Rótulo atribuído:** tema atribuído após leitura das palavras mais frequentes e de alguns poemas do tópico.
