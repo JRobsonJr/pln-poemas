@@ -1,5 +1,9 @@
 # pln-poemas
 
+## TCC
+
+Disponível no link: http://dspace.sti.ufcg.edu.br:8080/jspui/handle/riufcg/19712
+
 ## Sobre o trabalho (Resumo)
 
 O contato com poemas na educação básica é um incentivo para que os alunos descubram o prazer proporcionado pela experiência com a linguagem poética. O Projeto _Coletânea de Poesias_, realizado anualmente no FERA Colégio e Curso, é uma iniciativa que se propõe a promover esse contato através da leitura, apreciação e escrita de poemas, gerando a cada ano um livro com textos redigidos por alunos dos ensinos fundamental e médio. Como a análise desses poemas seria custosa se feita manualmente, o presente trabalho empregou técnicas de Processamento de Linguagem Natural, como _Part-of-Speech tagging_ e modelagem de tópicos, a fim de fazer a mineração dos textos produzidos nas dez edições mais recentes do projeto. Os resultados obtidos reforçam aspectos ligados à liberdade de criação envolvida na produção poética e que os temas abordados pelos alunos variam de acordo com a sua maturidade e o seu ambiente.
